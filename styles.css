@@ -13,12 +13,12 @@ body {
   border-radius:4px;
 }
 h1 {
-  font-size: 2.5em;
+  font-size:  2.2em;
   line-height: 1.1em;
   font-weight: BOLD;
   color: #DAA520;
   position: relative;
-  top:-1.4em;
+  top:-1.5sem;
   text-shadow:1px 0px 0px rgba(0,0,0,.6)
 }
 p {
@@ -29,7 +29,7 @@ hr {
   border: none;
   border-top: 1px solid rgba(255,255,255,.3);
   border-bottom: 1px solid rgba(0,0,0,.08);
-  margin: 2.5em 0;
+  margin:  2.3em 0;
   position: relative;
 }
 hr:before,hr:after {
