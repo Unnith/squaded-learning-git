@@ -1,5 +1,5 @@
 html {
-  background-color: yellow;
+  background-color: white;
 }
 body {
   max-width: 30em;
@@ -15,8 +15,8 @@ body {
 h1 {
   font-size: 2.5em;
   line-height: 1.1em;
-  font-weight: italic;
-  color: #A52A2A;
+  font-weight: BOLD;
+  color: #DAA520;
   position: relative;
   top:-1.4em;
   text-shadow:1px 0px 0px rgba(0,0,0,.6)
